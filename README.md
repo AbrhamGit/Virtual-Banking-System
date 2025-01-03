@@ -52,11 +52,11 @@ The system utilizes **SQLite** to store and manage data. The database contains t
 2. Open the project in Visual Studio.
 3. Build the solution and run the application.
 
-###License
+### **License**
 
 This project is licensed under the [License](LICENSE) - see the LICENSE file for details.
 
-###Acknowledgments
+### **Acknowledgments**
 
 Developed by **Abrham Ayana**. The project idea and most of the development work, including the Windows Forms interface and the subsequent console version, were initiated and implemented by **Abrham Ayana**.
 Inspired by the need to digitize manual record-keeping processes in schools.

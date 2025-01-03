@@ -52,8 +52,6 @@ The system utilizes **SQLite** to store and manage data. The database contains t
 2. Open the project in Visual Studio.
 3. Build the solution and run the application.
 
-## Screenshots
-
 ##License
 
 This project is licensed under the [License](LICENSE) - see the LICENSE file for details.
